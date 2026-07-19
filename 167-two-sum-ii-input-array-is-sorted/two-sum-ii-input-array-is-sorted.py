@@ -11,5 +11,5 @@ class Solution:
             else:
                 j -=1
 
-        return [-1,-1]
+        return []
         
