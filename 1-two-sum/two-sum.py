@@ -1,8 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap = {}
+
+        dict = {}  
+
         for i in range(len(nums)):
-            if target - nums[i] in hashmap:
-                return [hashmap[target - nums[i]], i]
-            hashmap[nums[i]] = i
+            if target - nums[i] in dict:
+                return [dict[target - nums[i]], i]
+
+            dict[nums[i]] = i
+            
         return [] 
+
+       
