@@ -1,15 +1,15 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         # sorter way to solve 
-        # nums = list(map(lambda x:x*x,nums))
-        # return sorted(nums)
+        nums = list(map(lambda x:x*x,nums))
+        return sorted(nums)
 
         # Simple and easy approach
-        result = []
-        for num in nums:
-            result.append(num*num)
-        result.sort()
-        return result
+        # result = []
+        # for num in nums:
+        #     result.append(num*num)
+        # result.sort()
+        # return result
 
         # Long Method
         # nums.sort()
