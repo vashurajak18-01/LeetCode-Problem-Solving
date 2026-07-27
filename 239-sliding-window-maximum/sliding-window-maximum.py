@@ -1,24 +1,26 @@
+
 from collections import deque
 
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        n =len(nums)
+        answer = []
+        queue = deque()
+        for i in range(len(nums)):
+            while (
+                queue and nums[queue[-1]] <= nums[i]
+            ):
+                queue.pop()
 
-        result = [0] * (n-k+1)
-        _deque_ = deque()
+            while (
+                queue and i - queue[0] >= k
+            ):
+                queue.popleft()
+            
+            queue.append(i)
+            if i+1 >= k:
+                answer.append(nums[queue[0]])
 
-        for right in range(n):
-
-            while _deque_ and _deque_[0] <= right - k:
-                _deque_.popleft()
-            while _deque_ and nums[_deque_[-1]] < nums[right]:
-                _deque_.pop()
-            _deque_.append(right)
-
-            if right >= k-1:
-                result[right-k+1] = nums[_deque_[0]]
-
-        return result 
+        return answer
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
