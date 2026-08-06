@@ -10,9 +10,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 * Two Pointers
 * Sliding Window
 * Stack and Queue
-* Linked List
-* Trees and Graphs
-* Dynamic Programming
+
 
 ## 🛠️ Language Used
 
