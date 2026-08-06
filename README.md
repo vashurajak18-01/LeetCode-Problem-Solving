@@ -9,8 +9,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 * Hashing
 * Two Pointers
 * Sliding Window
-* Stack and Queue
-
+* Kadane's Algorithm
 
 ## 🛠️ Language Used
 
