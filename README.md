@@ -36,7 +36,7 @@ LeetCode/
 
 ## 👨‍💻 --Author--
 
-** VASHU R... **
+** VASHU RAJAK **
 
 * GitHub: https://github.com/vashurajak18-01
 
