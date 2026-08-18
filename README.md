@@ -5,6 +5,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 ## 🚀 Topics Covered
 
 * Arrays
+* LinkedList
 * Strings
 * Hashing
 * Two Pointers
