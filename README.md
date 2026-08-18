@@ -14,7 +14,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 
 ## 🛠️ Language Used
 
-* Python 🐍
+* -- Python -- 🐍
 
 ## 📂 Repository Structure
 
