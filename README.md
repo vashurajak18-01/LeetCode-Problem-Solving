@@ -9,6 +9,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 * Strings
 * Hashing
 * Two Pointers
+* Prefix Sum
 * Sliding Window
 * Kadane's Algorithms
 
