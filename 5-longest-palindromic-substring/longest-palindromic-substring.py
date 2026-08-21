@@ -14,6 +14,7 @@ class Solution:
 
         return s[start: end+1]
 
+
     def expand(self, s, left, right):
         while left >= 0 and right < len(s) and s[left] == s[right]:
             left -= 1
