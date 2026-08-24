@@ -1,5 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        
         n = len(nums)
         to_subsets = 1 << n
         answer = []
