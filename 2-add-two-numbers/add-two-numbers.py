@@ -23,7 +23,6 @@ class Solution:
             carry = total //10
             dummy.next = ListNode(balance)
             dummy = dummy.next
-            
         return res.next
 
 
