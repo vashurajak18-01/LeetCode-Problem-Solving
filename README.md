@@ -12,6 +12,7 @@ This repository contains my solutions to various **LeetCode problems**, written 
 * Prefix Sum
 * Sliding Window
 * Kadane's Algorithms
+* Bit Manipulation
 
 ## 🛠️ Language Used
 
