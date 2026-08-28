@@ -41,6 +41,6 @@ LeetCode/
 
  ### VASHU RAJAK 
 
-* GitHub: https://github.com/vashurajak18-01
+* GitHub: _https://github.com/vashurajak18-01_
 
 ⭐ Feel free to explore the solutions and support the repository by giving it a star!
