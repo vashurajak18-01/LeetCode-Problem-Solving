@@ -8,7 +8,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * _LinkedList_
 * _Strings_
 * Hashing
-* Two Pointers
+* _Two Pointers_
 * Prefix Sum
 * Sliding Window
 * Kadane's Algorithms
