@@ -11,7 +11,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * _Two Pointers_
 * _Prefix Sum_
 * _Sliding Window_
-* Kadane's Algorithms
+* _Kadane's Algorithms_
 * _Bit Manipulation_
 
 ## 🛠️ Language Used
