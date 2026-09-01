@@ -43,4 +43,4 @@ LeetCode/
 
 * GitHub: _https://github.com/vashurajak18-01_
 
-⭐ _Feel free to explore the solutions and support the repository by giving it a star!_
+⭐ Feel free to explore the solutions and support the repository by giving it a star!
