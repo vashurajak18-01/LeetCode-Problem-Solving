@@ -9,7 +9,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * _Strings_
 * Hashing
 * _Two Pointers_
-* Prefix Sum
+* _Prefix Sum_
 * Sliding Window
 * Kadane's Algorithms
 * Bit Manipulation
