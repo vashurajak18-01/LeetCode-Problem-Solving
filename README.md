@@ -12,7 +12,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * _Prefix Sum_
 * _Sliding Window_
 * Kadane's Algorithms
-* Bit Manipulation
+* _Bit Manipulation_
 
 ## 🛠️ Language Used
 
