@@ -1,0 +1,39 @@
+class MinStack:
+
+    def __init__(self):
+        self.items = []
+
+    def push(self, value: int) -> None:
+        if len(self.items) == 0:
+            self.items.append([value, value])
+        else:
+            mini = min(self.items[-1][-1], value)
+            self.items.append([value, mini])
+
+    def pop(self) -> None:
+        if len(self.items) == 0:
+                return 
+        self.items.pop([-1][0])
+
+
+    def top(self) -> int:
+        if len(self.items) == 0:
+            return 0
+        return self.items[-1][0]
+
+    def getMin(self) -> int:
+        if len(self.items) == 0:
+            return 0
+        return self.items[-1][1]
+
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(value)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
