@@ -18,29 +18,47 @@
 #  ===================================================================================
 
 
+# class Solution:
+#     def jump(self, nums: List[int]) -> bool:
+#         last_index = len(nums) -1
+#         dp = [-1]*len(nums)
+
+#         def func(index ):
+            
+#             if index >= last_index:
+#                 return 0
+            
+#             if dp[index] != -1:
+#                 return dp[index]
+            
+#             min_jump = float('inf')
+
+#             for i in range(1, nums[index]+1):
+#                 min_jump = min(min_jump, 1 + func(index + i))
+
+#             dp [index] = min_jump
+
+#             return dp [index]
+        
+#         return func (0)
+
+#  ========================================================================
+
+
 class Solution:
     def jump(self, nums: List[int]) -> bool:
-        last_index = len(nums) -1
-        dp = [-1]*len(nums)
+        jump = 0
+        left = 0
+        right = 0
+        while right < len(nums) -1:
+            farthest = 0
+            for i in range(left, right+1):
+                farthest = max(farthest, i + nums[i])
+            left = right+1
+            right = farthest
+            jump += 1
 
-        def func(index ):
-            
-            if index >= last_index:
-                return 0
-            
-            if dp[index] != -1:
-                return dp[index]
-            
-            min_jump = float('inf')
-
-            for i in range(1, nums[index]+1):
-                min_jump = min(min_jump, 1 + func(index + i))
-
-            dp [index] = min_jump
-
-            return dp [index]
-        
-        return func (0)
+        return jump
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
