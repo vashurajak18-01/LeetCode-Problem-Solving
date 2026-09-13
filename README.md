@@ -13,7 +13,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * **_Sliding Window_**
 * **_Kadane's Algorithms_**
 * **_Bit Manipulation_**
-* **Greedy Algorithm**
+* **_Greedy Algorithm_**
 
 ## 🛠️ Language Used
 
