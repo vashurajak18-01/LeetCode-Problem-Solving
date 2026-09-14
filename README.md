@@ -38,7 +38,7 @@ LeetCode/
 * Understand time and space complexity
 * Prepare for coding interviews
 
-## 👨‍💻 Author
+## 👨‍💻 **Author**
 
  ### VASHU RAJAK 
 
