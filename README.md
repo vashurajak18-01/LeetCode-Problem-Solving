@@ -15,7 +15,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * **_Bit Manipulation_**
 * **_Greedy Algorithm_**
 
-## 🛠️ Language Used
+## 🛠️ **Language Used**
 
 ## 🐍 **_Only Python_**  🐍
 
