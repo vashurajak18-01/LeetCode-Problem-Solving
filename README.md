@@ -5,7 +5,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 ## 🚀 **_Topics Covered_**
 
 * **Arrays**
-* **_LinkedList_**  
+* **LinkedList**  
 * **_Strings_**
 * **_Hashing_**
 * **_Two Pointers_**
