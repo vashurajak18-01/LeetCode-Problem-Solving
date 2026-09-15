@@ -32,7 +32,7 @@ LeetCode/
 
 ## 🎯 **_Goals_**
 
-* Solve problems consistently
+* _Solve problems consistently_
 * Improve logical thinking
 * Learn optimized approaches
 * Understand time and space complexity
