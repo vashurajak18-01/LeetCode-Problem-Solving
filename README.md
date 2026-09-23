@@ -30,7 +30,7 @@ LeetCode/
 └── README.md
 ```
 
-## 🎯 **_Goals_**
+## 🎯 *_Goals_*
 
 * _Solve problems consistently_
 * Improve logical thinking
