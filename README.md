@@ -40,7 +40,7 @@ LeetCode/
 
 ## 👨‍💻 **_Author_**
 
- ### VASHU RAJAK 
+ ### _VASHU RAJAK_ 
 
 * GitHub: _https://github.com/vashurajak18-01_
 
