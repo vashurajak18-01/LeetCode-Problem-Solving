@@ -1,4 +1,4 @@
-## 💻  **__LeetCode_ _Problem _Solving_**
+## 💻  **__LeetCode__ Problem _Solving_**
 
 _This repository contains my solutions to various **LeetCode problems**, written in **Python**. I created this repository to improve my **Data Structures and Algorithms (DSA)** skills, strengthen problem-solving abilities, and maintain consistency in coding._
 
