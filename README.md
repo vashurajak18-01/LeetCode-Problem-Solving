@@ -7,7 +7,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * **__Arrays__**
 * **__LinkedList__**  
 * **__Strings__**
-* **_Hashing_**
+* **__Hashing__**
 * **_Two Pointers_**
 * **_Prefix Sum_**
 * **_Sliding Window_**
