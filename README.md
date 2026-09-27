@@ -6,7 +6,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 
 * **__Arrays__**
 * **__LinkedList__**  
-* **_Strings_**
+* **__Strings__**
 * **_Hashing_**
 * **_Two Pointers_**
 * **_Prefix Sum_**
