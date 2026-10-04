@@ -10,7 +10,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * **__Hashing__**
 * **__Two Pointers__**
 * **__Prefix Sum__**
-* **_Sliding Window_**
+* **__Sliding Window__**
 * **_Kadane's Algorithms_**
 * **_Bit Manipulation_**
 * **_Greedy Algorithm_**
