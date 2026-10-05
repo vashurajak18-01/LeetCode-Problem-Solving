@@ -4,7 +4,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 
 ## 🚀 **__Topics Covered__**
 
-* **___Arrays___**
+* **__Arrays__**
 * **__LinkedList__**  
 * **__Strings__**
 * **__Hashing__**
