@@ -14,7 +14,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 * **__Kadane's Algorithms__**
 * **__Bit Manipulation__**
 * **__Greedy Algorithm__**
-* _Graph_
+* __Graph__
 
 ## 🛠️ **__Language Used__**
 
