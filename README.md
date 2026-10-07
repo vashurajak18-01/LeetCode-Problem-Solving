@@ -2,7 +2,7 @@
 
 _This repository contains my solutions to various **LeetCode problems**, written in **Python**. I created this repository to improve my **Data Structures and Algorithms (DSA)** skills, strengthen problem-solving abilities, and maintain consistency in coding._
 
-## 🚀 **__Topics Covered__**
+## 🚀 **_Topics Covered__**
 
 * **__Arrays__**
 * **__LinkedList__**  
