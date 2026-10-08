@@ -20,7 +20,7 @@ _This repository contains my solutions to various **LeetCode problems**, written
 
 ## 🐍 **___Only Python___**  🐍
 
-## 📂 **__Repository Structure__**
+## 📂 **__Repository  Structure__**
 
 ```text
 LeetCode/
