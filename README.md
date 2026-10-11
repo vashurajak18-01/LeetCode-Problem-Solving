@@ -11,7 +11,7 @@
 * **_Two Pointers_**
 * **_Prefix Sum_**
 * **_Sliding Window_**
-* **_Kadane's Algorithms__**
+* **_Kadane's Algorithms_**
 * **__Bit Manipulation__**
 * **_Greedy Algorithm_**
 * **_Graph_**
