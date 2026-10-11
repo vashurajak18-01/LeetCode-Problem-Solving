@@ -4,7 +4,7 @@
 
 ## 🚀 **__Topics Covered__**
 
-* **__Arrays__**
+* **_Arrays__**
 * **__LinkedList__**  
 * **__Strings__**
 * **__Hashing__**
