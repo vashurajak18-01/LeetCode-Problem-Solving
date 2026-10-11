@@ -14,7 +14,7 @@
 * **__Kadane's Algorithms__**
 * **__Bit Manipulation__**
 * **__Greedy Algorithm__**
-* **__Graph__**
+* **_Graph_**
 
 ## 🛠️ **__Language Used__**
 
