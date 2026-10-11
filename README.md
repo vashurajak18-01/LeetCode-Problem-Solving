@@ -9,7 +9,7 @@
 * **_Strings_**
 * **_Hashing_**
 * **_Two Pointers_**
-* **__Prefix Sum__**
+* **_Prefix Sum__**
 * **__Sliding Window__**
 * **__Kadane's Algorithms__**
 * **__Bit Manipulation__**
