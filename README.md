@@ -6,7 +6,7 @@
 
 * **__Arrays__**
 * **__LinkedList__**  
-* **__Strings_**
+* **__Strings__**
 * **_Hashing_**
 * **_Two Pointers_**
 * **_Prefix Sum_**
