@@ -10,7 +10,7 @@
 * **__Hashing__**
 * **__Two Pointers__**
 * **__Prefix Sum__**
-* **__Sliding Window_**
+* **__Sliding Window__**
 * **_Kadane's Algorithms_**
 * **__Bit Manipulation__**
 * **_Greedy Algorithm_**
