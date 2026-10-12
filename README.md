@@ -8,7 +8,7 @@
 * **__LinkedList__**  
 * **__Strings__**
 * **__Hashing__**
-* **_Two Pointers_**
+* **__Two Pointers_**
 * **_Prefix Sum_**
 * **_Sliding Window_**
 * **_Kadane's Algorithms_**
