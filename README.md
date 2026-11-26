@@ -13,7 +13,7 @@
 * **__Sliding Window__**
 * **__Kadane's Algorithms__**
 * **__Bit Manipulation__**
-* **_Greedy Algorithm_**
+* **__Greedy Algorithm_**
 * **_Graph_**
 
 ## 🛠️ **__Language Used__**
